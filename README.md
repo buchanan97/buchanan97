@@ -1,6 +1,4 @@
-## Hi there 👋
 
-# Biography
 # Hi there, I'm James Buchanan 👋
 
 ### Cloud Security & IAM Engineer 🛡️
