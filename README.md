@@ -41,5 +41,4 @@ I solve complex identity challenges to reduce operational friction and improve s
 I am currently seeking opportunities in **Cloud Security Engineering**, **IAM Engineering**, and **Identity Governance & Administration (IGA)** where I can drive high-impact security initiatives.
 
 - 📫 How to reach me: [[LinkedIn]](https://www.linkedin.com/in/james-buchanan-862792175/)
-- ⚡ Fun fact: I enjoy deconstructing complex authentication handshakes—one packet capture at a time.
-
+- ⚡ Fun fact: I enjoy cooking and music
